@@ -1,0 +1,21 @@
+{
+  "name": "dapply-api",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Daniel kinyo <9253824-kinyodan@users.noreply.gitlab.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
